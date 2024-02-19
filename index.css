@@ -27,7 +27,7 @@ body { /* We can style any HTML element by using its name - here we're styling t
   
   /* Headings */
   h1, h2, h3, h4, h5, h6 {
-    color: #50a767;
+    color: #53c20f;
     margin-top: 24px;
     margin-bottom: 16px;
     font-weight: 600;
@@ -55,7 +55,7 @@ body { /* We can style any HTML element by using its name - here we're styling t
 
 section {
     /* Add a thick black top border to each section */
-    border-top: 4px solid #de8900;
+    border-top: 4px solid #ffffff;
     display: flex;
     align-items: flex-start;
     gap: 20px; /* Adjust the gap between the text and the chart as needed */
@@ -78,7 +78,7 @@ section figure {
   
   /* Links */
   a {
-    color: #3b957b;
+    color: #ffffff;
     text-decoration: none;
   }
   
